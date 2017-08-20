@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/var-dumper": "*",
+        "symfony/yaml": "*"
+    }
+}
