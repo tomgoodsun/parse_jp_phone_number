@@ -1,5 +1,6 @@
 {
     "require": {
+        "phpoffice/phpspreadsheet": "1.0.0-beta",
         "symfony/var-dumper": "*",
         "symfony/yaml": "*"
     }
